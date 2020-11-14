@@ -408,12 +408,26 @@
             </e>
             <e p="Entity" t="Include">
               <e p="EntityData" t="Include">
+                <e p="BgData.cs" t="Include" />
+                <e p="BirdData.cs" t="Include" />
+                <e p="BulletData.cs" t="Include" />
                 <e p="EntityData.cs" t="Include" />
+                <e p="PipeData.cs" t="Include" />
               </e>
               <e p="EntityExtension.cs" t="Include" />
               <e p="EntityLogic" t="Include">
+                <e p="Bg.cs" t="Include" />
+                <e p="Bird.cs" t="Include" />
+                <e p="Bullet.cs" t="Include" />
                 <e p="Entity.cs" t="Include" />
+                <e p="Pipe.cs" t="Include" />
               </e>
+            </e>
+            <e p="Event" t="Include">
+              <e p="AddScoreEventArgs.cs" t="Include" />
+              <e p="BirdDeadEventArgs.cs" t="Include" />
+              <e p="RestartEventArgs.cs" t="Include" />
+              <e p="ReturnMenuEventArgs.cs" t="Include" />
             </e>
             <e p="Localication" t="Include">
               <e p="LocalizationExtension.cs" t="Include" />
@@ -468,7 +482,9 @@
                 <e p="UIFormId.cs" t="Include" />
               </e>
               <e p="Customs" t="Include">
+                <e p="GameOverForm.cs" t="Include" />
                 <e p="MenuForm.cs" t="Include" />
+                <e p="ScoreForm.cs" t="Include" />
                 <e p="SettingForm.cs" t="Include" />
               </e>
             </e>
