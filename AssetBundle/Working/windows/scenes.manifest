@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 731977464
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7f54a074e37d13bbd0a83d3f538288a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: facf4e58d104ee570de84e5f772544ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Scenes/Main.unity
+- Assets/GameMain/Scenes/Menu.unity
+Dependencies: []

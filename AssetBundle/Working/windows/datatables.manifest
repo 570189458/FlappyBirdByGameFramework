@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3563626989
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 990f8ada07cceb4473327c594da09772
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/DataTables/Music.txt
+- Assets/GameMain/DataTables/UISound.txt
+- Assets/GameMain/DataTables/Sound.txt
+- Assets/GameMain/DataTables/UIForm.txt
+- Assets/GameMain/DataTables/Entity.txt
+- Assets/GameMain/DataTables/Scene.txt
+Dependencies: []

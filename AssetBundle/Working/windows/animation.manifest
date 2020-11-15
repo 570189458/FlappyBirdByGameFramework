@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2152747201
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa2859e652d5b3b9494bcdb112888f6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75c4cf5a811febcff373a7691b935ca2
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Animation/Fly.anim
+- Assets/GameMain/Animation/bird_0.controller
+Dependencies:
+- D:/Study/Github/FlappyBirdByGameFramework/FlappyBirdByGameFramework/AssetBundle/Working/windows/textures

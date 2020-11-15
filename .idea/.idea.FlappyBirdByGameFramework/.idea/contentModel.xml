@@ -328,6 +328,8 @@
         </e>
         <e p="GameMain" t="Include">
           <e p="Configs" t="Include">
+            <e p="AssetBundleBuilder.xml" t="Include" />
+            <e p="AssetBundleCollection.xml" t="Include" />
             <e p="AssetBundleEditor.xml" t="Include" />
             <e p="BuildInfo.txt" t="Include" />
             <e p="BuildSettings.xml" t="Include" />

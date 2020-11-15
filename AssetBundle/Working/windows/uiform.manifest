@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 4278240157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d204a8d92f1b16463822ba4d553c8bfd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77984b7be5eadcf85051dbd0b7bf7c2a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70e183320ff5f69409b27fdd1d609836, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b068163f9a6d7642a716635059d536e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2665ca64600fffd44be5afa057bec5b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 945a3c45a5a24e8469b93102b4e3a41c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 625b7a1d39dee3e4ca41543f567fce2c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/UI/UIForms/ScoreForm.prefab
+- Assets/GameMain/UI/UIForms/MenuForm.prefab
+- Assets/GameMain/UI/UIForms/SettingForm.prefab
+- Assets/GameMain/UI/UIForms/GameOverForm.prefab
+Dependencies: []
